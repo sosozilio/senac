@@ -1,0 +1,3 @@
+produto = 'refrigerante: '
+marca ='coca-cola'
+print(produto + marca)
